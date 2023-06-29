@@ -1,0 +1,16 @@
+{
+  "name": "application",
+  "version": "1.0.0",
+  "description": "app for deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Rodolfo Rafael 00082421@uca.edu.sv",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
