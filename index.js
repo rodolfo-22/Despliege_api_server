@@ -9,7 +9,7 @@ app.use(bodyParser.urlencoded({ extended: true }))
 app.use(bodyParser.json())
 
 app.get("/", (req, res) => {
-  res.send("Welcome to your App!")
+  res.send("Welcome to my domain, you know, you and me!,so, what we gonna do")
 })
 
 app.get("/users", (req, res) => {
